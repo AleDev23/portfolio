@@ -1,0 +1,14 @@
+.experience {
+    padding: 20px;
+}
+
+.experience-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.experience-card h3 {
+    margin: 0 0 5px;
+}
